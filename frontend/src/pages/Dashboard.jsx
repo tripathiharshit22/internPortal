@@ -17,7 +17,8 @@ function Dashboard() {
 
   const fetchInternData = async () => {
     try {
-      const response = await fetch('http://localhost:5000/api/intern');
+    //   const response = await fetch('http://localhost:5000/api/intern');
+      const response = await fetch('https://internportal-zknd.onrender.com/api/intern');
       const result = await response.json();
       
       if (result.success) {
