@@ -156,10 +156,3 @@ intern-portal/
 - Add charts and analytics
 - Email functionality for referrals
 
-## 🤝 Contributing
-
-This is a learning project. Feel free to fork and experiment with the code!
-
-## 📄 License
-
-This project is for educational purposes.
